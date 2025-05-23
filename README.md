@@ -97,10 +97,8 @@ cloudfinsecuredashboard/
 
 ### 🖥 Demo – Streamlit Dashboard
 
-> ✅ [Click here to view the live dashboard](https://cloudfinsecure.streamlit.app)
-> *(Note: Replace with your actual Streamlit URL)*
-
----
+> ✅ [Click here to view the live dashboard](https://cloudfinsecure-mi8hfv8dtelmep49qu3sqe.streamlit.app)
+> ---
 
 ### 🔐 Setup Instructions (Locally)
 
